@@ -46,3 +46,5 @@ Pour tester ce projet en local, suivez ces étapes :
 
 ---
 *Projet réalisé dans le cadre du module d'Analyse, Modélisation et Implémentation d'une Base de Données.*
+
+👨‍💻 Réalisé par : Rida Sabrar
